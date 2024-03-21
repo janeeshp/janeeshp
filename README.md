@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
+- Buy me a Coffee **https://www.buymeacoffee.com/janeeshp/**
+
 
 - ⚡ Fun fact **: I do coding**
 <h3 align="left">Connect with me:</h3>
@@ -34,8 +36,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en" alt="dhanush-harikrishnan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janeeshgithub&show_icons=true&locale=en" alt="janeeshp" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
