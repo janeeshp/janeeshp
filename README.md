@@ -1,9 +1,6 @@
 ![logo](https://github.com/janeeshgithub/janeeshgithub/raw/main/Banner.png)
 
 
-- 🔭 I’m currently working on **Webdevelopment**
-
-- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **https://www.linkedin.com/in/janeesh-p-880963250/**
 - Buy me a Coffee **https://www.buymeacoffee.com/janeeshp/**
